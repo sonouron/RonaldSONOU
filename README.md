@@ -1,8 +1,7 @@
-```markdown
 # Ronald SONOU – Data Analyst Portfolio
 
 📍 **Benin** | 🌍 **Open to remote opportunities worldwide**  
-📧 ronald.sonou@example.com | 🔗 [LinkedIn](https://linkedin.com/in/ronald-sonou) | 💻 [GitHub](https://github.com/ronald-sonou)
+📧 ronald.sonou1@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/ronald-bienvenu-sonou-9bb2811bb/) | 💻 [GitHub](https://github.com/sonouron)
 
 ---
 
@@ -11,8 +10,8 @@
 I’m a self‑taught data analyst with a passion for turning raw data into actionable insights. My journey began with a curiosity about how numbers tell stories — and quickly grew into a deep commitment to **rigorous analysis**, **clean code**, and **business‑driven storytelling**.
 
 I’ve built projects ranging from customer churn prediction to Nobel Prize data analysis, and I’ve learned to work with:
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit‑learn)
-- 📊 **Power BI** & **Tableau**
+- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- 📊 **Power BI**  
 - 🗄️ **SQL** (PostgreSQL, MySQL, BigQuery)
 - 🧹 **Data cleaning**, **EDA**, **statistical testing**, and **dashboard design**
 
